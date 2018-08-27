@@ -2,3 +2,6 @@ mkdocs
 mkdocs-cinder
 cookiecutter
 pytest
+
+# Experiment Runner
+-e git+https://github.com/nicotom/yaer.git#egg=yaer
